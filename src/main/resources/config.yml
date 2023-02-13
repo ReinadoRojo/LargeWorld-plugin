@@ -1,0 +1,22 @@
+# DON'T TOUCH!!!
+# Version: 1
+# ID: _dev_
+# DON'T TOUCH!!!
+Config:
+  max-lifes: 3
+
+Messages:
+  connect-silence: "&6Conectado al servidor! &8&(Secret join&8)"
+  banned: "&1&lLargeWorld\n\n\n&cEstas muerto!"
+  join: "&8[&2+&8] &6%name%&e se ha conectado!"
+  reload-complete: "&aConfig reloaded completed"
+  eliminated-kick: "Haz sido eliminado :("
+  lore-head:
+    - "&eCabeza de jugador"
+    - "&eJugador:&6 %player_name%"
+    - "&f"
+
+Users:
+  -XXXX-TEST-UUID-XXXX:
+    lifes: 3
+    last-words: "This text is to say when player dies and loses the 3 lifes"

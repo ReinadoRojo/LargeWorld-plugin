@@ -1,0 +1,18 @@
+main: fun.leiuq.largeworld.LargeWorld
+name: "LargeWorld"
+version: "1.1.4"
+authors: ["Leiuq","ReinadoRojo","Orecraft Network"]
+api-version: "1.13"
+author_url: "https://github.com/ReinadoRojo"
+website: "https://tienda.orecraft.network"
+description: "Large world plugin"
+softdepend:
+  - "PlaceholderAPI"
+
+commands:
+  largeworld:
+    aliases:
+      - "lw"
+      - "core"
+      - "lwcore"
+    description: "Large-world core"
