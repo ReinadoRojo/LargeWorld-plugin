@@ -5,7 +5,7 @@
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
   <a href="https://choosealicense.com/licenses/cc0-1.0/" target="_blank">
-    <img alt="License: MIT License" src="https://img.shields.io/badge/License-MIT License-yellow.svg" />
+    <img alt="License of the project" src="https://img.shields.io/github/license/ReinadoRojo/LargeWorld-plugin" />
   </a>
 </p>
 
