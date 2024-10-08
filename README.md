@@ -1,3 +1,6 @@
+> [!CAUTION]
+> Repository fully abandoned. CC0 allows you to clone and modify the code.
+
 <h1 align="center">Welcome to LargeWorld-plugin 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.1.4-blue.svg?cacheSeconds=2592000" />
