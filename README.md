@@ -4,7 +4,7 @@
   <a href="https://github.com/ReinadoRojo/LargeWorld-plugin/wiki/" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="https://choosealicense.com/licenses/mit/" target="_blank">
+  <a href="https://choosealicense.com/licenses/cc0-1.0/" target="_blank">
     <img alt="License: MIT License" src="https://img.shields.io/badge/License-MIT License-yellow.svg" />
   </a>
 </p>
